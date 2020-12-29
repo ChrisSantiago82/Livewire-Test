@@ -35,7 +35,7 @@
             </ul>
 
             <ul class="navbar-brand">
-                <img src="/assets/logo.png" style="height: auto; width: 100px; padding-top: 20px">
+                {{-- <img src="/assets/logo.png" style="height: auto; width: 100px; padding-top: 20px">--}}
             </ul>
         </nav>
 
